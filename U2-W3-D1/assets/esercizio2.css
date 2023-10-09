@@ -1,0 +1,20 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
+
+.input {
+    margin: 10px;
+}
+
+button {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: lightgreen;
+    width: 100px;
+}
+
+li {
+    margin: 10px;
+}
